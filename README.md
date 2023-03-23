@@ -10,10 +10,11 @@
 </div>
 
 
-
 <div align="left">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=discoverbasecode&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Discoverbasecode Github Stats">
+</div>
 
-
+<div align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=discoverbasecode&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
 </div>
